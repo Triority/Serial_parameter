@@ -11,7 +11,7 @@ Take the file `Serial_parameter.ino` as an example:
   ```ser_par(par_list);```
 
 # How to use
-Use the serial port to send：`SaTb\n`
+Send by serial：`SaTb\n`
 
 `S`, `T`, `\n` are used as markers. They cannot be modified.
 
