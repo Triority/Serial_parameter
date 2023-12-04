@@ -3,6 +3,7 @@ Adjust the parameters through the serial port
 
 # How to use
 Take the file `Serial_parameter.ino` as an example:
++ Copy the two files (`ser_par.cpp` and `ser_par.h`) to the directory
 + `#include "ser_par.h"`
 + Define an array containing the addresses of the variables you want to set by serial
   ```int *par_list[5] = {&a,&b,&c,&d,&e};```
