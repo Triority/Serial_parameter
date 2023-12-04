@@ -1,6 +1,8 @@
 # About the repositories: Serial_parameter
 Adjust the parameters through the serial port
 
+[中文版本](https://triority.cn/2023/Serial-parameter/)
+
 # How to configure
 Take the file `Serial_parameter.ino` as an example:
 + Copy the two files (`ser_par.cpp` and `ser_par.h`) to the directory
