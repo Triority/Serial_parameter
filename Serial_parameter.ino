@@ -14,7 +14,7 @@ void setup() {
 
 void loop() {
   //do something
-  delay(100);
+  delay(1);
 
   //Serial_parameter function
   ser_par(par_list);
